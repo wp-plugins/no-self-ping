@@ -1,7 +1,7 @@
 === No Self Pings ===
 Contributors: mdawaffe
 Tags: pingback
-Tested up to: 2.9
+Tested up to: 3.0
 Stable tag: 0.2
 
 Keeps WordPress from sending pings to your own site.
